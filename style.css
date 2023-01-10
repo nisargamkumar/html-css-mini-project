@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-repeat: round;
+    background-image: url(https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==);
+}
+.header{
+    background-image: url(data:image/jpeg;base64,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);
+}
+.logo {
+    padding-top: 30px;
+    padding-left: 30px;
+    display: inline-block;
+    color: beige;
+    width:300px;
+    height:60px; 
+    }
+    .menus {
+    float:right;
+    }
+.menus ul{
+    color: greenyellow;
+    margin-top: 45px;
+}
+.menus ul li{
+    color: greenyellow;
+    display: inline;
+    margin: 0px 15px;
+}
+.menus ul li a{
+    font-size: 20px;
+    color:greenyellow;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.socialmedia{
+    border:1px solid black;
+    border-radius: 35px;
+    font-size: 20px;
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/05/49/social-media-background-network-concept-vector-16150549.jpg);
+    margin-top: 80px;
+    margin-left: 140px;
+    flex-grow: 1;
+    padding: 20px 400px 30px 400px;
+}
+.onlineshopping{
+    border:1px solid black;
+    font-size: 20px;
+    border-radius: 35px;
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/05/49/social-media-background-network-concept-vector-16150549.jpg);
+    margin-top: 80px;
+    margin-left: 140px;
+    flex-grow: 1;
+    padding: 20px 400px 30px 325px;
+}
+.entertainment{
+    border:1px solid black;
+    border-radius: 35px;
+    font-size: 20px;
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/05/49/social-media-background-network-concept-vector-16150549.jpg);
+    margin-top: 80px;
+    margin-left: 140px;
+    flex-grow: 1;
+    padding: 20px 400px 30px 360px;
+}
+.educational{
+    border:1px solid black;
+    border-radius: 35px;
+    font-size: 20px;
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/05/49/social-media-background-network-concept-vector-16150549.jpg);
+    margin-top: 80px;
+    margin-left: 140px;
+    flex-grow: 1;
+    padding: 20px 400px 30px 410px;
+}
+.topsites{
+    border:1px solid black;
+    font-size: 20px;
+    border-radius: 35px;
+    color:white;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/05/49/social-media-background-network-concept-vector-16150549.jpg);
+    margin-top: 80px;
+    margin-left: 140px;
+    flex-grow: 1;
+    padding: 20px 400px 30px 480px;
+    margin-bottom: 100px;
+}
