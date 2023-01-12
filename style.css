@@ -21,19 +21,25 @@ body{
     float:right;
     }
 .menus ul{
-    color: greenyellow;
+   
     margin-top: 45px;
 }
 .menus ul li{
-    color: greenyellow;
+    
     display: inline;
     margin: 0px 15px;
 }
 .menus ul li a{
     font-size: 20px;
-    color:greenyellow;
+    color:yellow;
     font-family: sans-serif;
     text-decoration: none;
+}
+.menus ul li a:hover{
+   color: rgb(238, 143, 174);
+}
+h1:hover{
+    color:rgb(216, 79, 102);
 }
 .socialmedia{
     border:1px solid black;
